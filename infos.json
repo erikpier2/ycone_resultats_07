@@ -1,0 +1,575 @@
+{
+  "groupe1": {
+    "titre": "3j en Forez MD1 rég. Chazelles s/Lavieu(42) 04/07",
+    "textes": [
+    ""      
+    ],
+    "liens": [
+      {
+        "texte": "Liveresultat",
+        "url": "https://liveresultat.orientering.se/followfull.php?comp=37145&lang=fr&class=Violet%20court"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+
+  "groupe2": {
+    "titre": "3j en Forez LD  rég. Chazelles s/Lavieu(42) 05/07",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Liveresultat",
+        "url": "https://liveresultat.orientering.se/followfull.php?comp=37148&lang=fr&class=Violet%20court"
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+
+  "groupe3": {
+    "titre": "3j en Forez MD2 rég. Verrieres-en-Forez(42) 06/07",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://drive.google.com/file/d/1wmGsLJ75AxFNfIdoh7Z7E3-fB1mwO2lE/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+
+    "groupe4": {
+    "titre": "Swiss O Week 2026 LD #étape 1 La Foileuse(74) 12/07",
+    "textes": [
+      "",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Trackmaxx",
+        "url": "https://trackmaxx.ch/results/?race=sow26-1&c=da092a9e-b0cf-4654-a127-048ce1e30492"
+      },
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+
+  "groupe5": {
+    "titre": "Swiss O Week 2026 Sprint/MD #étape 2 Avoriaz(74) 13/07",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {        "texte": "Résultats Trackmaxx",        
+        "url": "https://trackmaxx.ch/results/?race=sow26-2&c=58df48aa-2155-4bcf-b6ee-0d3915ad7eff"
+      },
+      {         "texte":"",
+        "url":""
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe6": {
+    "titre": "Swiss O Week 2026 MD #étape 3 Col de Chezery(74) 14/07",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "Résultats Trackmaxx",
+        "url": "https://trackmaxx.ch/results/?race=sow26-3&c=65b4d1db-7e3c-4914-ab4c-50e37fd5965a"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe7": {
+    "titre": "Swiss O Week 2026 MD #étape 4 Portes du Soleil(74) 16/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Trackmaxx",
+        "url": "https://trackmaxx.ch/results/?race=sow26-4&c=55b87f4e-397f-484a-b5a8-12dcf19f8411"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe8": {
+    "titre": "Swiss O Week 2026 LD #étape 5 Chalets de Plaine Dranse(74) 17/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Trackmaxx",
+        "url": "https://trackmaxx.ch/results/?race=SOW26-5&c=383d225f-bab8-4668-b60d-ab428278dc89"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe9": {
+    "titre": "O'France LD #1-Les Premiers Sapins(25) 27/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1sk9YPxJHA6RWTgWBRko71TTD8IjXZerX/view?usp=sharing"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe10": {
+    "titre": "O'France MD #2-Naisey les Granges(25) 28/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1zGTxXmgLDqalkb0ONIbjkYEEdOE3SiIe/view?usp=sharing"
+      },
+      {
+        "texte":"Résultats général 2 étapes",
+        "url":"https://www.ofrance2026.fr/documents/resultats/Etape_3_General.pdf"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe11": {
+    "titre": "O'France LD #3-Naisey les Granges(25) 29/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1kVZUyzEghbEGJmP1I5sPfMBOrUWV9vCb/view?usp=sharing"
+      },
+      {
+        "texte":"Résultats général 3 étapes",
+        "url":"https://www.ofrance2026.fr/documents/resultats/Etape_3_General.pdf"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe12": {
+    "titre": "Sprint optionnel-Consolation-Maisonnettes(25) 30/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1rQ5IybsUnEByBcpq49tAmuH3IRbrNIhy/view?usp=sharing"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe13": {
+    "titre": "O'France MD #4-Vernierfontaine(25) 31/07",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1moac99kKw6QckxXPNgHa4HqYpsjCKHGp/view?usp=sharing"
+      },
+      {
+        "texte":"Résultats général 4 étapes",
+        "url":"https://drive.google.com/file/d/1VeXH2dbd8Psgmpk9utrv1QUT2TLbmqgD/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe14": {
+    "titre": "O'France LD #5-Les Premiers Sapins(25) 01/08",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1JdXhi4CVEN8VBgo4lsrEq_J6MI1tH9gr/view?usp=sharing"
+      },
+      {
+        "texte":"Résultats général 5 étapes",
+        "url":"https://drive.google.com/file/d/1GhWjYl49r8etkcr1vYsgWipeCvSxA4t4/view?usp=sharing"
+      },
+      {
+        "texte": "Général Ycône",
+        "url": "https://drive.google.com/file/d/11aqRe1NK1dVpMNwkl2ogJzyKPsF0mNQN/view?usp=sharing"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "07/11/2026 19:32"
+  },
+  "groupe15": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe16": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe17": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe18": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe19": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe20": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }  
+}
